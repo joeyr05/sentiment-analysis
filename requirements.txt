@@ -4,4 +4,4 @@ numpy
 nltk
 scikit-learn
 pickle
-streamlit
+
