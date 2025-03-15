@@ -24,8 +24,8 @@ git clone "Your-repository"
 ```
 cd "repository name"
 ```
-In my case, I had to install Streamlit by creating a Python Virtual Environment<br>
-Below are the steps<br>
+#### In my case, I had to install Streamlit by creating a Python Virtual Environment<br>
+#### Below are the steps:<br>
 ```
 sudo apt install python3-venv
 ```
