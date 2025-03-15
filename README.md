@@ -41,5 +41,5 @@ pip install streamlit
 ```
 streamlit run your_app.py
 ````
-Copy the Public address on new tab and after that mention the port number, in this case it's 8501.
+#### Do the mapping on the port: 8501
 
