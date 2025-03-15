@@ -1,5 +1,5 @@
 # Sentiment-analysis
-Analysis twitter tweets. The dataset has been derived from kaggle.<br>
+Analysed twitter tweets. The dataset has been derived from kaggle.<br>
 This model has an accuracy of 78.99% and also measures its confidence%.<br>
 For the frontend, streamlit has been used.<br>
 The project has been deployed on AWS cloud server in EC2 instance.<br>
